@@ -8,17 +8,17 @@
         {"name": "Night", "spawnTimes": ["11:00", "12:45"]}
       ],
       "worldBosses": [
-        {"name": "Tequatl the Sunless", "spawnTimes": ["07:00", "11:30", "18:30", "22:00"], "map": "Grasgrüne Schwelle", "type"="wordlboss"},
-        {"name": "Shatterer", "spawnTimes": ["10:00", "13:30", "17:00", "20:30"], "map": "Grasgrüne Schwelle", "type"="wordlboss"},
-        {"name": "Karka Queen", "spawnTimes": ["10:30", "14:30", "18:30", "22:30"], "map": "Southsun Cove", "type"="wordlboss"},
-        {"name": "Svanir Schamane", "spawnTimes": ["11:15"], "map": "Wayfarer Foothills", "type"="wordlboss"},
+        {"name": "Tequatl the Sunless", "spawnTimes": ["07:00", "11:30", "18:30", "22:00"], "map": "Grasgrüne Schwelle", "type"="worldboss"},
+        {"name": "Shatterer", "spawnTimes": ["10:00", "13:30", "17:00", "20:30"], "map": "Grasgrüne Schwelle", "type"="worldboss"},
+        {"name": "Karka Queen", "spawnTimes": ["10:30", "14:30", "18:30", "22:30"], "map": "Southsun Cove", "type"="worldboss"},
+        {"name": "Svanir Schamane", "spawnTimes": ["11:15"], "map": "Wayfarer Foothills", "type"="worldboss"},
         {"name": "Modnir Ulgoth", "spawnTimes": ["11:30"], "map": "Queensdale", "type"="wordlboss"},
-        {"name": "Fire Elemental", "spawnTimes": ["11:45"], "map": "Blazeridge Steppes", "type"="wordlboss"},
-        {"name": "Inquest Golem", "spawnTimes": ["12:00"], "map": "Harathi Hinterland", "type"="wordlboss"},
-        {"name": "Great Jungleworm", "spawnTimes": ["12:15"], "map": "Diessa Plateau", "type"="wordlboss"},
-        {"name": "Claw of Jormag", "spawnTimes": ["12:30"], "map": "Shiverpeak Mountains", "type"="wordlboss"},
-        {"name": "Shadow Behemoth", "spawnTimes": ["12:45"], "map": "Queensdale", "type"="wordlboss"},
-        {"name": "Admiral Taidha Covington", "spawnTimes": ["13:00"], "map": "Bloodtide Coast", "type"="wordlboss"}
+        {"name": "Fire Elemental", "spawnTimes": ["11:45"], "map": "Blazeridge Steppes", "type"="worldboss"},
+        {"name": "Inquest Golem", "spawnTimes": ["12:00"], "map": "Harathi Hinterland", "type"="worldboss"},
+        {"name": "Great Jungleworm", "spawnTimes": ["12:15"], "map": "Diessa Plateau", "type"="worldboss"},
+        {"name": "Claw of Jormag", "spawnTimes": ["12:30"], "map": "Shiverpeak Mountains", "type"="worldboss"},
+        {"name": "Shadow Behemoth", "spawnTimes": ["12:45"], "map": "Queensdale", "type"="worldboss"},
+        {"name": "Admiral Taidha Covington", "spawnTimes": ["13:00"], "map": "Bloodtide Coast", "type"="worldboss"}
       ],
       "events": [
         {"name": "Triple Trouble", "spawnTimes": ["11:00", "15:00", "19:00"], "map": "Queensdale", "type"="event"},
