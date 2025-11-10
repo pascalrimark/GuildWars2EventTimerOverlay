@@ -9,20 +9,20 @@
       ],
       "worldBosses": [
         {"name": "Tequatl the Sunless", "spawnTimes": ["07:00", "11:30", "18:30", "22:00"], "map": "Grasgrüne Schwelle", "type":"worldboss", "iconUrl":"https://wiki.guildwars2.com/images/thumb/1/15/Tequatl_icon.png/32px-Tequatl_icon.png"},
-        {"name": "Shatterer", "spawnTimes": ["10:00", "13:30", "17:00", "20:30"], "map": "Grasgrüne Schwelle", "type":"worldboss"},
-        {"name": "Karka Queen", "spawnTimes": ["10:30", "14:30", "18:30", "22:30"], "map": "Southsun Cove", "type":"worldboss"},
-        {"name": "Svanir Schamane", "spawnTimes": ["11:15"], "map": "Wayfarer Foothills", "type":"worldboss"},
-        {"name": "Modnir Ulgoth", "spawnTimes": ["11:30"], "map": "Queensdale", "type":"wordlboss"},
-        {"name": "Fire Elemental", "spawnTimes": ["11:45"], "map": "Blazeridge Steppes", "type":"worldboss"},
-        {"name": "Inquest Golem", "spawnTimes": ["12:00"], "map": "Harathi Hinterland", "type":"worldboss"},
-        {"name": "Great Jungleworm", "spawnTimes": ["12:15"], "map": "Diessa Plateau", "type":"worldboss"},
-        {"name": "Claw of Jormag", "spawnTimes": ["12:30"], "map": "Shiverpeak Mountains", "type":"worldboss"},
-        {"name": "Shadow Behemoth", "spawnTimes": ["12:45"], "map": "Queensdale", "type":"worldboss"},
-        {"name": "Admiral Taidha Covington", "spawnTimes": ["13:00"], "map": "Bloodtide Coast", "type":"worldboss"}
+        {"name": "Shatterer", "spawnTimes": ["10:00", "13:30", "17:00", "20:30"], "map": "Grasgrüne Schwelle", "type":"worldboss", "iconUrl":"https://wiki.guildwars2.com/images/thumb/1/15/Tequatl_icon.png/32px-Tequatl_icon.png"},
+        {"name": "Karka Queen", "spawnTimes": ["10:30", "14:30", "18:30", "22:30"], "map": "Southsun Cove", "type":"worldboss", "iconUrl":"https://wiki.guildwars2.com/images/thumb/1/15/Tequatl_icon.png/32px-Tequatl_icon.png"},
+        {"name": "Svanir Schamane", "spawnTimes": ["11:15"], "map": "Wayfarer Foothills", "type":"worldboss", "iconUrl":"https://wiki.guildwars2.com/images/thumb/1/15/Tequatl_icon.png/32px-Tequatl_icon.png"},
+        {"name": "Modnir Ulgoth", "spawnTimes": ["11:30"], "map": "Queensdale", "type":"wordlboss", "iconUrl":"https://wiki.guildwars2.com/images/thumb/1/15/Tequatl_icon.png/32px-Tequatl_icon.png"},
+        {"name": "Fire Elemental", "spawnTimes": ["11:45"], "map": "Blazeridge Steppes", "type":"worldboss", "iconUrl":"https://wiki.guildwars2.com/images/thumb/1/15/Tequatl_icon.png/32px-Tequatl_icon.png"},
+        {"name": "Inquest Golem", "spawnTimes": ["12:00"], "map": "Harathi Hinterland", "type":"worldboss", "iconUrl":"https://wiki.guildwars2.com/images/thumb/1/15/Tequatl_icon.png/32px-Tequatl_icon.png"},
+        {"name": "Great Jungleworm", "spawnTimes": ["12:15"], "map": "Diessa Plateau", "type":"worldboss", "iconUrl":"https://wiki.guildwars2.com/images/thumb/1/15/Tequatl_icon.png/32px-Tequatl_icon.png"},
+        {"name": "Claw of Jormag", "spawnTimes": ["12:30"], "map": "Shiverpeak Mountains", "type":"worldboss", "iconUrl":"https://wiki.guildwars2.com/images/thumb/1/15/Tequatl_icon.png/32px-Tequatl_icon.png"},
+        {"name": "Shadow Behemoth", "spawnTimes": ["12:45"], "map": "Queensdale", "type":"worldboss", "iconUrl":"https://wiki.guildwars2.com/images/thumb/1/15/Tequatl_icon.png/32px-Tequatl_icon.png"},
+        {"name": "Admiral Taidha Covington", "spawnTimes": ["13:00"], "map": "Bloodtide Coast", "type":"worldboss", "iconUrl":"https://wiki.guildwars2.com/images/thumb/1/15/Tequatl_icon.png/32px-Tequatl_icon.png"}
       ],
       "events": [
-        {"name": "Triple Trouble", "spawnTimes": ["11:00", "15:00", "19:00"], "map": "Queensdale", "type":"event"},
-        {"name": "Dragonstorm", "spawnTimes": ["07:00", "10:00", "13:00", "16:00"], "map": "Sparkfly Fen", "type":"event"}
+        {"name": "Triple Trouble", "spawnTimes": ["11:00", "15:00", "19:00"], "map": "Queensdale", "type":"event", "iconUrl":null},
+        {"name": "Dragonstorm", "spawnTimes": ["07:00", "10:00", "13:00", "16:00"], "map": "Sparkfly Fen", "type":"event", "iconUrl":null}
       ]
     },
     {
@@ -30,10 +30,10 @@
       "name": "Maguuma Jungle",
       "worldBosses": [],
       "events": [
-        {"name": "Die verdrehte Marionette", "spawnTimes": ["11:00"], "map": "Eye Of The North", "type":"event"},
-        {"name": "Schlacht um Löwenstein", "spawnTimes": ["11:30"], "map": "Eye Of The North", "type":"event"},
-        {"name": "Tower of Nightmares", "spawnTimes": ["12:30"], "map": "Eye Of The North", "type":"event"},
-        {"name": "Besiegt Scarlets Diener", "spawnTimes": ["12:00"], "map": "Scarlets Invasion", "type":"event"}
+        {"name": "Die verdrehte Marionette", "spawnTimes": ["11:00"], "map": "Eye Of The North", "type":"event", "iconUrl":null},
+        {"name": "Schlacht um Löwenstein", "spawnTimes": ["11:30"], "map": "Eye Of The North", "type":"event", "iconUrl":null},
+        {"name": "Tower of Nightmares", "spawnTimes": ["12:30"], "map": "Eye Of The North", "type":"event", "iconUrl":null},
+        {"name": "Besiegt Scarlets Diener", "spawnTimes": ["12:00"], "map": "Scarlets Invasion", "type":"event", "iconUrl":null}
       ]
     },
     {
@@ -41,8 +41,8 @@
       "name": "Maguuma Jungle",
       "worldBosses": [],
       "events": [
-        {"name": "Absturzstelle", "spawnTimes": ["12:00"], "map": "Trockenkuppe", "type":"event"},
-        {"name": "Sandsturm!", "spawnTimes": ["12:40"], "map": "Trockenkuppe", "type":"event"}
+        {"name": "Absturzstelle", "spawnTimes": ["12:00"], "map": "Trockenkuppe", "type":"event", "iconUrl":null},
+        {"name": "Sandsturm!", "spawnTimes": ["12:40"], "map": "Trockenkuppe", "type":"event", "iconUrl":null}
       ]
     },
     {
@@ -50,16 +50,16 @@
       "name": "Maguuma Jungle",
       "worldBosses": [],
       "events": [
-        {"name": "Die Nacht und der Feind", "spawnTimes": ["11:00", "15:00", "19:00"], "map": "Grasgrüne Schwelle", "type":"event"},
-        {"name": "Sicherung des Grasgrünen Schwelle", "spawnTimes": ["11:00", "15:00", "19:00"], "map": "Grasgrüne Schwelle", "type":"event"},
-        {"name": "Pylonen", "spawnTimes": ["11:00"], "map": "Güldener Talkessel", "type":"event"},
-        {"name": "Herasuforderungen", "spawnTimes": ["11:45"], "map": "Güldener Talkessel", "type":"event"},
-        {"name": "Rankenkrake", "spawnTimes": ["12:00"], "map": "Güldener Talkessel", "type":"event"},
-        {"name": "Reset", "spawnTimes": ["12:18"], "map": "Güldener Talkessel", "type":"event"},
-        {"name": "Helft dem Außenposten", "spawnTimes": ["11:00"], "map": "Verschlungene Tiefen", "type":"event"},
-        {"name": "Vorbereitung", "spawnTimes": ["11:22"], "map": "Verschlungene Tiefen", "type":"event"},
-        {"name": "Chack-Potentat", "spawnTimes": ["11:30"], "map": "Verschlungene Tiefen", "type":"event"},
-        {"name": "Start des Angriffts", "spawnTimes": ["12:30"], "map": "Widerstand des Drachen", "type":"event"}
+        {"name": "Die Nacht und der Feind", "spawnTimes": ["11:00", "15:00", "19:00"], "map": "Grasgrüne Schwelle", "type":"event", "iconUrl":null},
+        {"name": "Sicherung des Grasgrünen Schwelle", "spawnTimes": ["11:00", "15:00", "19:00"], "map": "Grasgrüne Schwelle", "type":"event", "iconUrl":null},
+        {"name": "Pylonen", "spawnTimes": ["11:00"], "map": "Güldener Talkessel", "type":"event", "iconUrl":null},
+        {"name": "Herasuforderungen", "spawnTimes": ["11:45"], "map": "Güldener Talkessel", "type":"event", "iconUrl":null},
+        {"name": "Rankenkrake", "spawnTimes": ["12:00"], "map": "Güldener Talkessel", "type":"event", "iconUrl":null},
+        {"name": "Reset", "spawnTimes": ["12:18"], "map": "Güldener Talkessel", "type":"event", "iconUrl":null},
+        {"name": "Helft dem Außenposten", "spawnTimes": ["11:00"], "map": "Verschlungene Tiefen", "type":"event", "iconUrl":null},
+        {"name": "Vorbereitung", "spawnTimes": ["11:22"], "map": "Verschlungene Tiefen", "type":"event", "iconUrl":null},
+        {"name": "Chack-Potentat", "spawnTimes": ["11:30"], "map": "Verschlungene Tiefen", "type":"event", "iconUrl":null},
+        {"name": "Start des Angriffts", "spawnTimes": ["12:30"], "map": "Widerstand des Drachen", "type":"event", "iconUrl":null}
       ]
     },
     {
@@ -67,9 +67,9 @@
       "name": "Maguuma Jungle",
       "worldBosses": [],
       "events": [
-        {"name": "Saidras Hafen", "spawnTimes": ["12:00"], "map": "Doric See", "type":"event"},
-        {"name": "Neulehmwald", "spawnTimes": ["12:45"], "map": "Doric See", "type":"event"},
-        {"name": "Norans Heimstatt", "spawnTimes": ["13:30"], "map": "Doric See", "type":"event"}
+        {"name": "Saidras Hafen", "spawnTimes": ["12:00"], "map": "Doric See", "type":"event", "iconUrl":null},
+        {"name": "Neulehmwald", "spawnTimes": ["12:45"], "map": "Doric See", "type":"event", "iconUrl":null},
+        {"name": "Norans Heimstatt", "spawnTimes": ["13:30"], "map": "Doric See", "type":"event", "iconUrl":null}
       ]
     },
     {
@@ -77,16 +77,16 @@
       "name": "Maguuma Jungle",
       "worldBosses": [],
       "events": [
-        {"name": "Die Nacht und der Feind", "spawnTimes": ["11:00", "15:00", "19:00"], "map": "Grasgrüne Schwelle", "type":"event"},
-        {"name": "Sicherung des Grasgrünen Schwelle", "spawnTimes": ["11:00", "15:00", "19:00"], "map": "Grasgrüne Schwelle", "type":"event"},
-        {"name": "Pylonen", "spawnTimes": ["11:00"], "map": "Güldener Talkessel", "type":"event"},
-        {"name": "Herasuforderungen", "spawnTimes": ["11:45"], "map": "Güldener Talkessel", "type":"event"},
-        {"name": "Rankenkrake", "spawnTimes": ["12:00"], "map": "Güldener Talkessel", "type":"event"},
-        {"name": "Reset", "spawnTimes": ["12:18"], "map": "Güldener Talkessel", "type":"event"},
-        {"name": "Helft dem Außenposten", "spawnTimes": ["11:00"], "map": "Verschlungene Tiefen", "type":"event"},
-        {"name": "Vorbereitung", "spawnTimes": ["11:22"], "map": "Verschlungene Tiefen", "type":"event"},
-        {"name": "Chack-Potentat", "spawnTimes": ["11:30"], "map": "Verschlungene Tiefen", "type":"event"},
-        {"name": "Start des Angriffts", "spawnTimes": ["12:30"], "map": "Widerstand des Drachen", "type":"event"}
+        {"name": "Die Nacht und der Feind", "spawnTimes": ["11:00", "15:00", "19:00"], "map": "Grasgrüne Schwelle", "type":"event", "iconUrl":null},
+        {"name": "Sicherung des Grasgrünen Schwelle", "spawnTimes": ["11:00", "15:00", "19:00"], "map": "Grasgrüne Schwelle", "type":"event", "iconUrl":null},
+        {"name": "Pylonen", "spawnTimes": ["11:00"], "map": "Güldener Talkessel", "type":"event", "iconUrl":null},
+        {"name": "Herasuforderungen", "spawnTimes": ["11:45"], "map": "Güldener Talkessel", "type":"event", "iconUrl":null},
+        {"name": "Rankenkrake", "spawnTimes": ["12:00"], "map": "Güldener Talkessel", "type":"event", "iconUrl":null},
+        {"name": "Reset", "spawnTimes": ["12:18"], "map": "Güldener Talkessel", "type":"event", "iconUrl":null},
+        {"name": "Helft dem Außenposten", "spawnTimes": ["11:00"], "map": "Verschlungene Tiefen", "type":"event", "iconUrl":null},
+        {"name": "Vorbereitung", "spawnTimes": ["11:22"], "map": "Verschlungene Tiefen", "type":"event", "iconUrl":null},
+        {"name": "Chack-Potentat", "spawnTimes": ["11:30"], "map": "Verschlungene Tiefen", "type":"event", "iconUrl":null},
+        {"name": "Start des Angriffts", "spawnTimes": ["12:30"], "map": "Widerstand des Drachen", "type":"event", "iconUrl":null}
       ]
     }
   ]
