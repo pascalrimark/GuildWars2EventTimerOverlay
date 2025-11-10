@@ -77,16 +77,15 @@
       "name": "Maguuma Jungle",
       "worldBosses": [],
       "events": [
-        {"name": "Die Nacht und der Feind", "spawnTimes": ["11:00", "15:00", "19:00"], "map": "Grasgrüne Schwelle", "type":"event", "iconUrl":null},
-        {"name": "Sicherung des Grasgrünen Schwelle", "spawnTimes": ["11:00", "15:00", "19:00"], "map": "Grasgrüne Schwelle", "type":"event", "iconUrl":null},
-        {"name": "Pylonen", "spawnTimes": ["11:00"], "map": "Güldener Talkessel", "type":"event", "iconUrl":null},
-        {"name": "Herasuforderungen", "spawnTimes": ["11:45"], "map": "Güldener Talkessel", "type":"event", "iconUrl":null},
-        {"name": "Rankenkrake", "spawnTimes": ["12:00"], "map": "Güldener Talkessel", "type":"event", "iconUrl":null},
-        {"name": "Reset", "spawnTimes": ["12:18"], "map": "Güldener Talkessel", "type":"event", "iconUrl":null},
-        {"name": "Helft dem Außenposten", "spawnTimes": ["11:00"], "map": "Verschlungene Tiefen", "type":"event", "iconUrl":null},
-        {"name": "Vorbereitung", "spawnTimes": ["11:22"], "map": "Verschlungene Tiefen", "type":"event", "iconUrl":null},
-        {"name": "Chack-Potentat", "spawnTimes": ["11:30"], "map": "Verschlungene Tiefen", "type":"event", "iconUrl":null},
-        {"name": "Start des Angriffts", "spawnTimes": ["12:30"], "map": "Widerstand des Drachen", "type":"event", "iconUrl":null}
+        {"name": "runde 1 bis 3", "spawnTimes": ["13:05"], "map": "Kristall Oase", "type":"event", "iconUrl":null},
+        {"name": "Pinata Reset", "spawnTimes": ["13:20"], "map": "Kristall Oase", "type":"event", "iconUrl":null},
+        {"name": "Vergrabene Schätze", "spawnTimes": ["14:00"], "map": "Wüstenhochland", "type":"event", "iconUrl":null},
+        {"name": "Fels der Weissagung", "spawnTimes": ["12:30"], "map": "Elon Flusslande", "type":"event", "iconUrl":null},
+        {"name": "Doppelgänger", "spawnTimes": ["12:50"], "map": "Elon Flusslande", "type":"event", "iconUrl":null},
+        {"name": "Aufstand der Junundu", "spawnTimes": ["12:00"], "map": "Das Ödland", "type":"event", "iconUrl":null},
+        {"name": "Schlünde der Qual", "spawnTimes": ["12:30"], "map": "Das Ödland", "type":"event", "iconUrl":null},
+        {"name": "Im Feuer geschmiedt", "spawnTimes": ["11:22"], "map": "Domäne Vaabi", "type":"event", "iconUrl":null},
+        {"name": "Zorn der Schlangen", "spawnTimes": ["11:30"], "map": "Domäne Vaabi", "type":"event", "iconUrl":null},
       ]
     }
   ]
