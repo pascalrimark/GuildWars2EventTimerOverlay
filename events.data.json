@@ -59,6 +59,31 @@
         {"name": "Chack-Potentat", "spawnTimes": ["11:30"], "map": "Verschlungene Tiefen", "type":"event"},
         {"name": "Start des Angriffts", "spawnTimes": ["12:30"], "map": "Widerstand des Drachen", "type":"event"}
       ]
+    },
+    {
+      "expansion": "Living World Season 3",
+      "name": "Maguuma Jungle",
+      "events": [
+        {"name": "Saidras Hafen", "spawnTimes": ["12:00"], "map": "Doric See", "type":"event"},
+        {"name": "Neulehmwald", "spawnTimes": ["12:45"], "map": "Doric See", "type":"event"},
+        {"name": "Norans Heimstatt", "spawnTimes": ["13:30"], "map": "Doric See", "type":"event"}
+      ]
+    },
+    {
+      "expansion": "Path Of Fire",
+      "name": "Maguuma Jungle",
+      "events": [
+        {"name": "Die Nacht und der Feind", "spawnTimes": ["11:00", "15:00", "19:00"], "map": "Grasgrüne Schwelle", "type":"event"},
+        {"name": "Sicherung des Grasgrünen Schwelle", "spawnTimes": ["11:00", "15:00", "19:00"], "map": "Grasgrüne Schwelle", "type":"event"},
+        {"name": "Pylonen", "spawnTimes": ["11:00"], "map": "Güldener Talkessel", "type":"event"},
+        {"name": "Herasuforderungen", "spawnTimes": ["11:45"], "map": "Güldener Talkessel", "type":"event"},
+        {"name": "Rankenkrake", "spawnTimes": ["12:00"], "map": "Güldener Talkessel", "type":"event"},
+        {"name": "Reset", "spawnTimes": ["12:18"], "map": "Güldener Talkessel", "type":"event"},
+        {"name": "Helft dem Außenposten", "spawnTimes": ["11:00"], "map": "Verschlungene Tiefen", "type":"event"},
+        {"name": "Vorbereitung", "spawnTimes": ["11:22"], "map": "Verschlungene Tiefen", "type":"event"},
+        {"name": "Chack-Potentat", "spawnTimes": ["11:30"], "map": "Verschlungene Tiefen", "type":"event"},
+        {"name": "Start des Angriffts", "spawnTimes": ["12:30"], "map": "Widerstand des Drachen", "type":"event"}
+      ]
     }
   ]
 }
