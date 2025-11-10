@@ -32,7 +32,10 @@
       "events": [
         {"name": "Die Nacht und der Feind", "spawnTimes": ["11:00", "15:00", "19:00"], "map": "Grasgrüne Schwelle", "type":"event"},
         {"name": "Sicherung des Grasgrünen Schwelle", "spawnTimes": ["11:00", "15:00", "19:00"], "map": "Grasgrüne Schwelle", "type":"event"},
-        {"name": "Nachtbosse", "spawnTimes": ["11:00", "15:00", "19:00"], "map": "Grasgrüne Schwelle", "type":"event"}
+        {"name": "Pylonen", "spawnTimes": ["11:00"], "map": "Güldener Talkessel", "type":"event"},
+        {"name": "Herasuforderungen", "spawnTimes": ["11:45"], "map": "Güldener Talkessel", "type":"event"},
+        {"name": "Rankenkrake", "spawnTimes": ["12:00"], "map": "Güldener Talkessel", "type":"event"},
+        {"name": "Reset", "spawnTimes": ["12:18"], "map": "Güldener Talkessel", "type":"event"}
       ]
     }
   ]
