@@ -85,7 +85,7 @@
         {"name": "Aufstand der Junundu", "spawnTimes": ["12:00"], "map": "Das Ödland", "type":"event", "iconUrl":null},
         {"name": "Schlünde der Qual", "spawnTimes": ["12:30"], "map": "Das Ödland", "type":"event", "iconUrl":null},
         {"name": "Im Feuer geschmiedt", "spawnTimes": ["11:22"], "map": "Domäne Vaabi", "type":"event", "iconUrl":null},
-        {"name": "Zorn der Schlangen", "spawnTimes": ["11:30"], "map": "Domäne Vaabi", "type":"event", "iconUrl":null},
+        {"name": "Zorn der Schlangen", "spawnTimes": ["11:30"], "map": "Domäne Vaabi", "type":"event", "iconUrl":null}
       ]
     }
   ]
