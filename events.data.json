@@ -26,6 +26,25 @@
       ]
     },
     {
+      "expansion": "Living World Season 1",
+      "name": "Maguuma Jungle",
+      "worldBosses": [],
+      "events": [
+        {"name": "Die verdrehte Marionette", "spawnTimes": ["11:00"], "map": "Eye Of The North", "type":"event"},
+        {"name": "Schlacht um Löwenstein", "spawnTimes": ["11:30"], "map": "Eye Of The North", "type":"event"},
+        {"name": "Tower of Nightmares", "spawnTimes": ["12:30"], "map": "Eye Of The North", "type":"event"},
+        {"name": "Besiegt Scarlets Diener", "spawnTimes": ["12:00"], "map": "Scarlets Invasion", "type":"event"},
+      ]
+    },
+    {
+      "expansion": "Living World Season 2",
+      "name": "Maguuma Jungle",
+      "worldBosses": [],
+      "events": [
+        {"name": "Die Nacht und der Feind", "spawnTimes": ["11:00"], "map": "Grasgrüne Schwelle", "type":"event"},
+      ]
+    },
+    {
       "expansion": "Heart Of Thorns",
       "name": "Maguuma Jungle",
       "worldBosses": [],
