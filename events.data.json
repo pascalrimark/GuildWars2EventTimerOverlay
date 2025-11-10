@@ -35,7 +35,11 @@
         {"name": "Pylonen", "spawnTimes": ["11:00"], "map": "Güldener Talkessel", "type":"event"},
         {"name": "Herasuforderungen", "spawnTimes": ["11:45"], "map": "Güldener Talkessel", "type":"event"},
         {"name": "Rankenkrake", "spawnTimes": ["12:00"], "map": "Güldener Talkessel", "type":"event"},
-        {"name": "Reset", "spawnTimes": ["12:18"], "map": "Güldener Talkessel", "type":"event"}
+        {"name": "Reset", "spawnTimes": ["12:18"], "map": "Güldener Talkessel", "type":"event"},
+        {"name": "Helft dem Außenposten", "spawnTimes": ["11:00"], "map": "Verschlungene Tiefen", "type":"event"},
+        {"name": "Vorbereitung", "spawnTimes": ["11:22"], "map": "Verschlungene Tiefen", "type":"event"},
+        {"name": "Chack-Potentat", "spawnTimes": ["11:30"], "map": "Verschlungene Tiefen", "type":"event"},
+        {"name": "Start des Angriffts", "spawnTimes": ["12:30"], "map": "Widerstand des Drachen", "type":"event"}
       ]
     }
   ]
