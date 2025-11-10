@@ -39,7 +39,6 @@
     {
       "expansion": "Living World Season 2",
       "name": "Maguuma Jungle",
-      "worldBosses": [],
       "events": [
         {"name": "Absturzstelle", "spawnTimes": ["12:00"], "map": "Trockenkuppe", "type":"event"},
         {"name": "Sandsturm!", "spawnTimes": ["12:40"], "map": "Trockenkuppe", "type":"event"}
@@ -48,7 +47,6 @@
     {
       "expansion": "Heart Of Thorns",
       "name": "Maguuma Jungle",
-      "worldBosses": [],
       "events": [
         {"name": "Die Nacht und der Feind", "spawnTimes": ["11:00", "15:00", "19:00"], "map": "Grasgrüne Schwelle", "type":"event"},
         {"name": "Sicherung des Grasgrünen Schwelle", "spawnTimes": ["11:00", "15:00", "19:00"], "map": "Grasgrüne Schwelle", "type":"event"},
