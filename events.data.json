@@ -8,7 +8,7 @@
         {"name": "Night", "spawnTimes": ["11:00", "12:45"]}
       ],
       "worldBosses": [
-        {"name": "Tequatl the Sunless", "spawnTimes": ["07:00", "11:30", "18:30", "22:00"], "map": "Grasgrüne Schwelle", "type":"worldboss"},
+        {"name": "Tequatl the Sunless", "spawnTimes": ["07:00", "11:30", "18:30", "22:00"], "map": "Grasgrüne Schwelle", "type":"worldboss", "iconUrl":"https://wiki.guildwars2.com/images/thumb/1/15/Tequatl_icon.png/32px-Tequatl_icon.png"},
         {"name": "Shatterer", "spawnTimes": ["10:00", "13:30", "17:00", "20:30"], "map": "Grasgrüne Schwelle", "type":"worldboss"},
         {"name": "Karka Queen", "spawnTimes": ["10:30", "14:30", "18:30", "22:30"], "map": "Southsun Cove", "type":"worldboss"},
         {"name": "Svanir Schamane", "spawnTimes": ["11:15"], "map": "Wayfarer Foothills", "type":"worldboss"},
