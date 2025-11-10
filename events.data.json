@@ -41,7 +41,8 @@
       "name": "Maguuma Jungle",
       "worldBosses": [],
       "events": [
-        {"name": "Die Nacht und der Feind", "spawnTimes": ["11:00"], "map": "Grasgrüne Schwelle", "type":"event"}
+        {"name": "Absturzstelle", "spawnTimes": ["12:00"], "map": "Trockenkuppe", "type":"event"},
+        {"name": "Sandsturm!", "spawnTimes": ["12:40"], "map": "Trockenkuppe", "type":"event"}
       ]
     },
     {
